@@ -65,30 +65,55 @@
     <article id="post-编-解的小记" class="article article-type-post" itemscope="" itemprop="blogPost">
   <div class="article-meta">
     <a href="/2018/11/15/编-解的小记/" class="article-date">
-  <time datetime="2018-11-15T03:06:13.000Z" itemprop="datePublished">2018-11-15</time>
+  <time datetime="2018-11-15T03:06:13.401Z" itemprop="datePublished">2018-11-15</time>
 </a>
     
   </div>
   <div class="article-inner">
     
     
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2018/11/15/编-解的小记/">编/解的小记</a>
-    </h1>
-  
-
-      </header>
-    
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <h2 id="编-解码的小记"><a href="#编-解码的小记" class="headerlink" title="编/解码的小记"></a>编/解码的小记</h2><h6 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h6><p>这周在开发一个功能的时候，遇到一个场景，需要把utf-8字符进行base64编码，然后发现自己对于几个编码方法并不是很熟悉，写下此文输出一下</p>
+<h5 id="btoa-atob"><a href="#btoa-atob" class="headerlink" title="btoa/atob"></a>btoa/atob</h5><ul>
+<li>btoa方法可以将 ASCII 字符串和二进制数据转换成一个base64编码后的字符串</li>
+<li>atob方法可以将base64编码后的字符串进行解码</li>
+</ul>
+<p>⚠️ 需要注意的是btoa方法在进行编码的时候，要是对象是Unicode会有以下报错</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Uncaught DOMException: Failed to execute &apos;btoa&apos; on &apos;Window&apos;: The string to be encoded contains characters outside of the Latin1 range.</span><br></pre></td></tr></table></figure>
+<p>那这样是否意味着我们不可以使用btoa/atob对中文进行base64编码/解码了么？</p>
+<p>答案当然不是，先让我们了解一下几个编码的方法再走进黑魔法的世界</p>
+<h5 id="escape-unescape"><a href="#escape-unescape" class="headerlink" title="escape/unescape"></a>escape/unescape</h5><ul>
+<li>Unescape 方法会把传入的十六进制编码值返回ASCII字符串</li>
+<li>Escape 方法会生成新的由十六进制转义序列替换的字符串</li>
+</ul>
+<p>当你想需要对URI进行操作时，请无视这两个方法 </p>
+<h5 id="encodeURI-decodeURI"><a href="#encodeURI-decodeURI" class="headerlink" title="encodeURI/decodeURI"></a>encodeURI/decodeURI</h5><ul>
+<li>这两个方法目的是为了对URI进行完整的编码/解码</li>
+</ul>
+<p>​       在 URI 中若包含以下具有特殊含义的 ASCII 标点符号，encodeURI/decodeURI函数是不会进行转义的：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">;/?:@&amp;=+$,#</span><br></pre></td></tr></table></figure>
+<h5 id="encodeURIComponent-decodeURIComponent"><a href="#encodeURIComponent-decodeURIComponent" class="headerlink" title="encodeURIComponent/decodeURIComponent"></a>encodeURIComponent/decodeURIComponent</h5><ul>
+<li><p>这两个方法在编码 / 解码 单个请求参数是比较常用的，它可以将参数中的中文、特殊字符进行转义，而不会影响整个URL</p>
+<p>不会进行转义的 ASCII 标点符号有</p>
+</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">- _ . ! ~ * &apos; ( )</span><br></pre></td></tr></table></figure>
+<h5 id="对比encodeURI和encodeURIComponent"><a href="#对比encodeURI和encodeURIComponent" class="headerlink" title="对比encodeURI和encodeURIComponent"></a>对比encodeURI和encodeURIComponent</h5><ul>
+<li>直接上例子</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">const url = &apos;https://www.google.co.id/&apos;</span><br><span class="line"></span><br><span class="line">encodeURI(url)  // https://www.google.co.id/</span><br><span class="line">encodeURIComponent(url)  // https%3A%2F%2Fwww.google.co.id%2F</span><br></pre></td></tr></table></figure>
+<p>encodeURIComponent对比encodeURI是编码程度更彻底，两个方法需要区分应用场景来使用</p>
+<h5 id="base64编码开始"><a href="#base64编码开始" class="headerlink" title="base64编码开始"></a>base64编码开始</h5><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">// 对utf-8字符进行编码</span><br><span class="line">function utoa(str) &#123;</span><br><span class="line">    return window.btoa(unescape(encodeURIComponent(str)));</span><br><span class="line">&#125;</span><br><span class="line">// 对utf-8字符进行解码</span><br><span class="line">function atou(str) &#123;</span><br><span class="line">    return decodeURIComponent(escape(window.atob(str)));</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">utoa(&apos;玄轩&apos;) // 546E6L2p</span><br><span class="line">atou(&apos;546E6L2p&apos;) // 玄轩</span><br></pre></td></tr></table></figure>
+<p>以上步骤可以拆分为以下三步</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">let encode = encodeURIComponent(str) // 首先将utf-8的字符串转码成16进制的字符集</span><br><span class="line">let ascCode = unescape(encode) // unescape将encode解码返回拉丁字符串(属于ASCII字符集)</span><br><span class="line">let base64 = window.btoa(ascCode) // 最后btoa登场将ASCII字符集进行base64编码</span><br></pre></td></tr></table></figure>
+<p>到此，一个base64编码方法已经出炉可以使用</p>
+<h5 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h5><p>本来想对比下js-base64这个轮子的，但是翻源码的时候发现这个轮子是基于<code>TypedArray</code> 写的，这一块又是我的知识盲区了….  to be continued</p>
+
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2018/11/15/编-解的小记/" data-id="cjoi12tnj00014efyx6plpwu7" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/2018/11/15/编-解的小记/" data-id="cjoi13olm00005bfyfkdequy1" class="article-share-link">Share</a>
       
       
     </footer>
@@ -124,7 +149,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2018/11/15/Hello-hexo/" data-id="cjoi12tna00004efyni2dl3vc" class="article-share-link">Share</a>
+      <a data-url="http://yoursite.com/2018/11/15/Hello-hexo/" data-id="cjoi13om300015bfylothnvl1" class="article-share-link">Share</a>
       
       
     </footer>
@@ -165,7 +190,7 @@
       <ul>
         
           <li>
-            <a href="/2018/11/15/编-解的小记/">编/解的小记</a>
+            <a href="/2018/11/15/编-解的小记/">(no title)</a>
           </li>
         
           <li>
