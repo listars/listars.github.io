@@ -1,0 +1,206 @@
+{
+  "groups": [
+    {
+      "keys": "transition,transition-w,elements,cg,bg_white,bg_black",
+      "name": "s_preload"
+    },
+    {
+      "keys": "bg_home,bg_street,bg_galaxy,bg_ap,bg_ilidilid,bg_outskirts,dialog,npc,altair-普通,vega-普通",
+      "name": "resources"
+    },
+    { "name": "sakura", "keys": "37,初恋告白,俏皮的萨克斯,弓放箭,挥动斧" },
+    {
+      "keys": "bg_dialog,5cd52f1d7f9d2a38b85a409dX1ha,bg_branch,mouse,ddb12290-c8a3-11eb-a359-63ddbec7ca4f,c4454640-c990-11eb-9b41-f5c89e5aa163,ddb36c80-c8a3-11eb-a359-63ddbec7ca4f,48d854b0-c991-11eb-9b41-f5c89e5aa163,c4471b00-c990-11eb-9b41-f5c89e5aa163,ddb0fb80-c8a3-11eb-a359-63ddbec7ca4f,d196bed0-c848-11eb-a359-63ddbec7ca4f,c44e1fe0-c990-11eb-9b41-f5c89e5aa163,c44657b0-c990-11eb-9b41-f5c89e5aa163,3cfec3e0-c9cd-11eb-9b41-f5c89e5aa163,07d39520-ca85-11eb-9b41-f5c89e5aa163,6ca96640-c734-11eb-8e75-4f1b18682d92,53409ac0-cd51-11eb-a074-7babd3ebdc3b,63273110-cd51-11eb-a074-7babd3ebdc3b,927144a0-cd70-11eb-a074-7babd3ebdc3b,57350670-cd51-11eb-a074-7babd3ebdc3b,d08223a0-cdb0-11eb-a074-7babd3ebdc3b,c4460990-c990-11eb-9b41-f5c89e5aa163,c44df8d0-c990-11eb-9b41-f5c89e5aa163,ab4c6f90-c997-11eb-9b41-f5c89e5aa163,c4476920-c990-11eb-9b41-f5c89e5aa163",
+      "name": "main"
+    },
+    {
+      "keys": "transition,transition-w,elements,cg,bg_white,bg_black",
+      "name": "next"
+    }
+  ],
+  "resources": [
+    { "name": "choice", "type": "image", "url": "assets/bg/choice.png" },
+    { "name": "changan1", "type": "image", "url": "assets/bg/changan/1.jpg" },
+    { "name": "bg", "type": "image", "url": "assets/bg/bg.jpg" },
+    {
+      "name": "15925223955eebf69b8b05c",
+      "type": "sound",
+      "url": "assets/sound/15925223955eebf69b8b05c.mp3"
+    },
+    { "name": "mouse", "type": "sheet", "url": "assets/mouse.json" },
+    { "name": "bg_branch", "type": "image", "url": "assets/bg/branch.png" },
+    { "name": "bg_dialog", "type": "image", "url": "assets/bg/dialog.png" },
+    { "name": "char_kc", "type": "image", "url": "assets/char/kc.png" },
+    { "name": "char_ck", "type": "image", "url": "assets/char/ck.png" },
+    { "name": "bg_movie", "type": "image", "url": "assets/bg/movie.jpg" },
+    { "name": "bg_yard", "type": "image", "url": "assets/bg/yard.jpg" },
+    { "name": "prelude", "type": "video", "url": "assets/player/prelude.ts" },
+    { "name": "second", "type": "video", "url": "assets/player/second.ts" },
+    { "name": "main.kc", "type": "text", "url": "assets/scripts/main.kc" },
+    { "name": "next.kc", "type": "text", "url": "assets/scripts/next.kc" },
+    { "name": "37", "type": "image", "url": "assets/37.png" },
+    {
+      "name": "初恋告白",
+      "type": "sound",
+      "soundType": "music",
+      "url": "assets/bgm/初恋告白.mp3"
+    },
+    {
+      "name": "俏皮的萨克斯",
+      "type": "sound",
+      "soundType": "music",
+      "url": "assets/bgm/俏皮的萨克斯.mp3"
+    },
+    {
+      "name": "弓放箭",
+      "type": "sound",
+      "soundType": "effect",
+      "url": "assets/effects/弓 放箭.mp3"
+    },
+    {
+      "name": "挥动斧",
+      "type": "sound",
+      "soundType": "effect",
+      "url": "assets/effects/挥动 斧.mp3"
+    },
+    { "name": "bg_home", "type": "image", "url": "assets/bg/home.jpg" },
+    { "name": "bg_street", "type": "image", "url": "assets/bg/street.jpg" },
+    { "name": "bg_galaxy", "type": "image", "url": "assets/bg/galaxy.jpg" },
+    { "name": "bg_ap", "type": "image", "url": "assets/bg/ap.jpg" },
+    { "name": "bg_ilidilid", "type": "image", "url": "assets/bg/ilidilid.jpg" },
+    {
+      "name": "bg_outskirts",
+      "type": "image",
+      "url": "assets/bg/outskirts.jpg"
+    },
+    { "name": "bg_white", "type": "image", "url": "assets/bg/white.png" },
+    { "name": "bg_black", "type": "image", "url": "assets/bg/black.png" },
+    { "name": "transition", "type": "image", "url": "assets/transition.png" },
+    { "name": "transition-w", "type": "image", "url": "assets/bg/white.png" },
+    { "name": "dialog", "type": "sheet", "url": "assets/dialog.json" },
+    { "name": "elements", "type": "sheet", "url": "assets/elements1.json" },
+    { "name": "cg", "type": "sheet", "url": "assets/cg.json" },
+    { "name": "npc", "type": "sheet", "url": "assets/char/npc.json" },
+    {
+      "name": "altair-普通",
+      "type": "sheet",
+      "url": "assets/char/altair.json"
+    },
+    { "name": "vega-普通", "type": "sheet", "url": "assets/char/vega.json" },
+    {
+      "name": "48d854b0-c991-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/48d854b0-c991-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "c44657b0-c990-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/c44657b0-c990-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "ddb12290-c8a3-11eb-a359-63ddbec7ca4f",
+      "type": "image",
+      "url": "assets/bg/ddb12290-c8a3-11eb-a359-63ddbec7ca4f.png"
+    },
+    {
+      "name": "c4454640-c990-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/c4454640-c990-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "ddb36c80-c8a3-11eb-a359-63ddbec7ca4f",
+      "type": "image",
+      "url": "assets/bg/ddb36c80-c8a3-11eb-a359-63ddbec7ca4f.png"
+    },
+    {
+      "name": "5cd52f1d7f9d2a38b85a409dX1ha",
+      "type": "image",
+      "url": "assets/bg/5cd52f1d7f9d2a38b85a409dX1ha.png"
+    },
+    {
+      "name": "c4471b00-c990-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/c4471b00-c990-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "ddb0fb80-c8a3-11eb-a359-63ddbec7ca4f",
+      "type": "image",
+      "url": "assets/bg/ddb0fb80-c8a3-11eb-a359-63ddbec7ca4f.png"
+    },
+    {
+      "name": "d196bed0-c848-11eb-a359-63ddbec7ca4f",
+      "type": "image",
+      "url": "assets/bg/d196bed0-c848-11eb-a359-63ddbec7ca4f.png"
+    },
+    {
+      "name": "c44e1fe0-c990-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/c44e1fe0-c990-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "3cfec3e0-c9cd-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/3cfec3e0-c9cd-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "07d39520-ca85-11eb-9b41-f5c89e5aa163",
+      "type": "video",
+      "url": "assets/player/07d39520-ca85-11eb-9b41-f5c89e5aa163.ts"
+    },
+    {
+      "name": "22949ff5-2660-4a31-ae3d-c09289141312.kc",
+      "type": "text",
+      "url": "assets/scripts/22949ff5-2660-4a31-ae3d-c09289141312.kc"
+    },
+    {
+      "name": "char_53409ac0-cd51-11eb-a074-7babd3ebdc3b_default",
+      "type": "image",
+      "url": "assets/char/53409ac0-cd51-11eb-a074-7babd3ebdc3b.png"
+    },
+    {
+      "name": "6ca96640-c734-11eb-8e75-4f1b18682d92",
+      "type": "image",
+      "url": "assets/bg/6ca96640-c734-11eb-8e75-4f1b18682d92.png"
+    },
+    {
+      "name": "char_63273110-cd51-11eb-a074-7babd3ebdc3b_default",
+      "type": "image",
+      "url": "assets/char/63273110-cd51-11eb-a074-7babd3ebdc3b.png"
+    },
+    {
+      "name": "char_927144a0-cd70-11eb-a074-7babd3ebdc3b_default",
+      "type": "image",
+      "url": "assets/char/927144a0-cd70-11eb-a074-7babd3ebdc3b.png"
+    },
+    {
+      "name": "char_57350670-cd51-11eb-a074-7babd3ebdc3b_生气",
+      "type": "image",
+      "url": "assets/char/57350670-cd51-11eb-a074-7babd3ebdc3b.png"
+    },
+    {
+      "name": "d08223a0-cdb0-11eb-a074-7babd3ebdc3b",
+      "type": "image",
+      "url": "assets/bg/d08223a0-cdb0-11eb-a074-7babd3ebdc3b.png"
+    },
+    {
+      "name": "c4460990-c990-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/c4460990-c990-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "c44df8d0-c990-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/c44df8d0-c990-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "ab4c6f90-c997-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/ab4c6f90-c997-11eb-9b41-f5c89e5aa163.png"
+    },
+    {
+      "name": "c4476920-c990-11eb-9b41-f5c89e5aa163",
+      "type": "image",
+      "url": "assets/bg/c4476920-c990-11eb-9b41-f5c89e5aa163.png"
+    }
+  ]
+}

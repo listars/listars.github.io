@@ -1,0 +1,12 @@
+{"file":"npc.png","frames":{
+"boy":{"x":1031,"y":1282,"w":484,"h":1279,"offX":0,"offY":1,"sourceW":484,"sourceH":1280},
+"cow":{"x":1411,"y":2564,"w":621,"h":479,"offX":0,"offY":0,"sourceW":621,"sourceH":480},
+"fff":{"x":0,"y":2564,"w":480,"h":661,"offX":0,"offY":211,"sourceW":480,"sourceH":1280},
+"girl":{"x":1585,"y":0,"w":385,"h":1279,"offX":0,"offY":0,"sourceW":385,"sourceH":1280},
+"nine":{"x":1031,"y":2563,"w":378,"h":1280,"offX":0,"offY":0,"sourceW":378,"sourceH":1280},
+"rem":{"x":906,"y":0,"w":677,"h":1280,"offX":0,"offY":0,"sourceW":677,"sourceH":1280},
+"six":{"x":1517,"y":1282,"w":476,"h":1280,"offX":0,"offY":0,"sourceW":476,"sourceH":1280},
+"tv-h":{"x":0,"y":0,"w":904,"h":1280,"offX":0,"offY":0,"sourceW":904,"sourceH":1280},
+"tv":{"x":1411,"y":3045,"w":564,"h":269,"offX":0,"offY":0,"sourceW":564,"sourceH":269},
+"up":{"x":0,"y":1282,"w":516,"h":1280,"offX":0,"offY":0,"sourceW":516,"sourceH":1280},
+"yato":{"x":518,"y":1282,"w":511,"h":1280,"offX":0,"offY":0,"sourceW":511,"sourceH":1280}}}

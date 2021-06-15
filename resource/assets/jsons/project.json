@@ -1,0 +1,537 @@
+{
+  "project": [
+    {
+      "name": "星辰变",
+      "orientation": 1,
+      "categoryID": 1,
+      "cover": "514b8e70-c8a4-11eb-a359-63ddbec7ca4f",
+      "description": "星辰变",
+      "source": "/Users/xuanxuanhuang/Library/Application Support/sakura",
+      "id": 9,
+      "nodes": [
+        {
+          "id": "0",
+          "name": "作品目录",
+          "chapterType": 0,
+          "type": "operation",
+          "anchorPoints": [
+            [
+              0.5,
+              0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ],
+          "style": {
+            "active": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 2,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10
+            },
+            "selected": {
+              "fill": "rgb(255, 255, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 4,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "highlight": {
+              "fill": "rgb(223, 234, 255)",
+              "stroke": "#4572d9",
+              "lineWidth": 2,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "inactive": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(191, 213, 255)",
+              "lineWidth": 1
+            },
+            "disable": {
+              "fill": "rgb(250, 250, 250)",
+              "stroke": "rgb(224, 224, 224)",
+              "lineWidth": 1
+            }
+          },
+          "x": 165,
+          "y": 50,
+          "layoutOrder": 0
+        },
+        {
+          "id": "56dbe02d-301a-422a-ab96-7e9570d02629",
+          "name": "第一章：初到长安",
+          "remark": "",
+          "cover": "",
+          "type": "operation",
+          "anchorPoints": [
+            [
+              0.5,
+              0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ],
+          "style": {
+            "active": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 2,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10
+            },
+            "selected": {
+              "fill": "rgb(255, 255, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 4,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "highlight": {
+              "fill": "rgb(223, 234, 255)",
+              "stroke": "#4572d9",
+              "lineWidth": 2,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "inactive": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(191, 213, 255)",
+              "lineWidth": 1
+            },
+            "disable": {
+              "fill": "rgb(250, 250, 250)",
+              "stroke": "rgb(224, 224, 224)",
+              "lineWidth": 1
+            }
+          },
+          "x": 165,
+          "y": 180,
+          "layoutOrder": 0
+        },
+        {
+          "id": "f992854a-c588-4ed9-a279-130b30a649f2",
+          "name": "第二章：仵作考试",
+          "remark": "",
+          "cover": "",
+          "type": "operation",
+          "anchorPoints": [
+            [
+              0.5,
+              0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ],
+          "style": {
+            "active": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 2,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10
+            },
+            "selected": {
+              "fill": "rgb(255, 255, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 4,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "highlight": {
+              "fill": "rgb(223, 234, 255)",
+              "stroke": "#4572d9",
+              "lineWidth": 2,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "inactive": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(191, 213, 255)",
+              "lineWidth": 1
+            },
+            "disable": {
+              "fill": "rgb(250, 250, 250)",
+              "stroke": "rgb(224, 224, 224)",
+              "lineWidth": 1
+            }
+          },
+          "x": 70,
+          "y": 310,
+          "layoutOrder": 0
+        },
+        {
+          "id": "22949ff5-2660-4a31-ae3d-c09289141312",
+          "name": "失败结局：无功而返",
+          "chapterType": 2,
+          "type": "operation",
+          "anchorPoints": [
+            [
+              0.5,
+              0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ],
+          "style": {
+            "active": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 2,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10
+            },
+            "selected": {
+              "fill": "rgb(255, 255, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 4,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "highlight": {
+              "fill": "rgb(223, 234, 255)",
+              "stroke": "#4572d9",
+              "lineWidth": 2,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "inactive": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(191, 213, 255)",
+              "lineWidth": 1
+            },
+            "disable": {
+              "fill": "rgb(250, 250, 250)",
+              "stroke": "rgb(224, 224, 224)",
+              "lineWidth": 1
+            }
+          },
+          "x": 260,
+          "y": 310,
+          "layoutOrder": 0
+        }
+      ],
+      "edges": [
+        {
+          "source": "0",
+          "target": "56dbe02d-301a-422a-ab96-7e9570d02629",
+          "type": "hvh",
+          "id": "edge-0.134141564475782181623325299872",
+          "style": {},
+          "startPoint": {
+            "x": 165,
+            "y": 50,
+            "anchorIndex": 0
+          },
+          "endPoint": {
+            "x": 165,
+            "y": 180,
+            "anchorIndex": 0
+          }
+        },
+        {
+          "source": "56dbe02d-301a-422a-ab96-7e9570d02629",
+          "target": "f992854a-c588-4ed9-a279-130b30a649f2",
+          "type": "hvh",
+          "id": "edge-0.68720723980434561623325299878",
+          "style": {},
+          "startPoint": {
+            "x": 165,
+            "y": 180,
+            "anchorIndex": 0
+          },
+          "endPoint": {
+            "x": 70,
+            "y": 310,
+            "anchorIndex": 0
+          }
+        },
+        {
+          "source": "56dbe02d-301a-422a-ab96-7e9570d02629",
+          "target": "22949ff5-2660-4a31-ae3d-c09289141312",
+          "type": "hvh",
+          "id": "edge-0.89230649631234661623325299879",
+          "style": {},
+          "startPoint": {
+            "x": 165,
+            "y": 180,
+            "anchorIndex": 0
+          },
+          "endPoint": {
+            "x": 260,
+            "y": 310,
+            "anchorIndex": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "斗罗大陆",
+      "orientation": 2,
+      "categoryID": 1,
+      "cover": "3772f7e0-c9e4-11eb-9b41-f5c89e5aa163",
+      "description": "123",
+      "source": "/Users/xuanxuanhuang/Library/Application Support/sakura",
+      "id": 1,
+      "roles": [
+        {
+          "id": "2bd105a3-6690-4d47-be68-23a3e81720fe",
+          "name": "配角",
+          "children": [
+            {
+              "name": "女一",
+              "desc": "qweq",
+              "story": "123123",
+              "model": [
+                {
+                  "img": "927144a0-cd70-11eb-a074-7babd3ebdc3b",
+                  "name": "普通",
+                  "id": "41"
+                }
+              ],
+              "id": "308d1385-24a7-46b3-91ea-0c7b913fdeb9",
+              "isAsync": false
+            }
+          ]
+        },
+        {
+          "id": "9b4f821b-c31f-40fd-9e96-debb58d7934f",
+          "name": "主角",
+          "children": [
+            {
+              "name": "总裁1",
+              "desc": "测试123",
+              "story": "",
+              "model": [
+                {
+                  "img": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+                  "name": "普通",
+                  "id": "39"
+                },
+                {
+                  "img": "63273110-cd51-11eb-a074-7babd3ebdc3b",
+                  "name": "大褂",
+                  "id": "40"
+                }
+              ],
+              "id": "b864d0c3-1f01-4e87-b9cf-b77fb6adc072",
+              "isAsync": false
+            },
+            {
+              "name": "总裁",
+              "desc": "123",
+              "story": "123",
+              "model": [
+                {
+                  "img": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+                  "name": "普通",
+                  "id": "39"
+                }
+              ],
+              "id": "7a01918a-78d1-492b-8382-4a379a238997"
+            }
+          ]
+        },
+        {
+          "id": "b547888d-8037-46bd-bd43-8382211a160d",
+          "name": "俄式"
+        }
+      ],
+      "nodes": [
+        {
+          "id": "0",
+          "name": "作品目录",
+          "chapterType": 0,
+          "type": "operation",
+          "anchorPoints": [
+            [
+              0.5,
+              0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ],
+          "style": {
+            "active": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 2,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10
+            },
+            "selected": {
+              "fill": "rgb(255, 255, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 4,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "highlight": {
+              "fill": "rgb(223, 234, 255)",
+              "stroke": "#4572d9",
+              "lineWidth": 2,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "inactive": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(191, 213, 255)",
+              "lineWidth": 1
+            },
+            "disable": {
+              "fill": "rgb(250, 250, 250)",
+              "stroke": "rgb(224, 224, 224)",
+              "lineWidth": 1
+            }
+          },
+          "x": 70,
+          "y": 40,
+          "layoutOrder": 0
+        },
+        {
+          "id": "a6cc6fbc-50e8-4da0-9c37-a26ea4fbc35b",
+          "name": "第一章",
+          "remark": "",
+          "cover": "",
+          "type": "operation",
+          "anchorPoints": [
+            [
+              0.5,
+              0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ],
+          "style": {
+            "active": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 2,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10
+            },
+            "selected": {
+              "fill": "rgb(255, 255, 255)",
+              "stroke": "rgb(95, 149, 255)",
+              "lineWidth": 4,
+              "shadowColor": "rgb(95, 149, 255)",
+              "shadowBlur": 10,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "highlight": {
+              "fill": "rgb(223, 234, 255)",
+              "stroke": "#4572d9",
+              "lineWidth": 2,
+              "text-shape": {
+                "fontWeight": 500
+              }
+            },
+            "inactive": {
+              "fill": "rgb(247, 250, 255)",
+              "stroke": "rgb(191, 213, 255)",
+              "lineWidth": 1
+            },
+            "disable": {
+              "fill": "rgb(250, 250, 250)",
+              "stroke": "rgb(224, 224, 224)",
+              "lineWidth": 1
+            }
+          },
+          "x": 70,
+          "y": 140,
+          "layoutOrder": 0
+        }
+      ],
+      "edges": [
+        {
+          "source": "0",
+          "target": "a6cc6fbc-50e8-4da0-9c37-a26ea4fbc35b",
+          "type": "hvh",
+          "id": "edge-0.381076844861184761623738593481",
+          "style": {},
+          "startPoint": {
+            "x": 70,
+            "y": 40,
+            "anchorIndex": 0
+          },
+          "endPoint": {
+            "x": 70,
+            "y": 140,
+            "anchorIndex": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "斗破苍穹",
+      "orientation": 2,
+      "categoryID": 1,
+      "cover": "73e0f060-c9e4-11eb-9b41-f5c89e5aa163",
+      "description": "",
+      "source": "/Users/xuanxuanhuang/Library/Application Support/sakura",
+      "id": 5
+    },
+    {
+      "name": "原神",
+      "orientation": 2,
+      "categoryID": 1,
+      "cover": "a5af07d0-c9e4-11eb-9b41-f5c89e5aa163",
+      "description": "123123",
+      "source": "/Users/xuanxuanhuang/Library/Application Support/sakura",
+      "id": 6
+    },
+    {
+      "name": "Fate Grand Order",
+      "orientation": 2,
+      "categoryID": 1,
+      "cover": "b9309f30-c9e4-11eb-9b41-f5c89e5aa163",
+      "description": "123123",
+      "source": "/Users/xuanxuanhuang/Library/Application Support/sakura",
+      "id": 7
+    },
+    {
+      "name": "口袋妖怪",
+      "orientation": 2,
+      "categoryID": 1,
+      "cover": "d7646720-c9e4-11eb-9b41-f5c89e5aa163",
+      "description": "123123",
+      "source": "/Users/xuanxuanhuang/Library/Application Support/sakura",
+      "id": 8
+    }
+  ]
+}

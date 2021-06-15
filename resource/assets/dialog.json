@@ -1,0 +1,14 @@
+{"file":"dialog.png","frames":{
+"altair-s":{"x":542,"y":289,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"altair-t":{"x":542,"y":867,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"boy-s":{"x":1084,"y":0,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"boy-t":{"x":542,"y":867,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"fff-s":{"x":1084,"y":289,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"fff-t":{"x":542,"y":867,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"girl-s":{"x":1084,"y":578,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"girl-t":{"x":542,"y":867,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"npc-s":{"x":542,"y":0,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"npc-t":{"x":542,"y":867,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"nvl":{"x":0,"y":0,"w":540,"h":960,"offX":0,"offY":0,"sourceW":540,"sourceH":960},
+"vega-s":{"x":542,"y":578,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287},
+"vega-t":{"x":542,"y":867,"w":540,"h":287,"offX":0,"offY":0,"sourceW":540,"sourceH":287}}}

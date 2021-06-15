@@ -1,0 +1,322 @@
+{
+  "chapter": [
+    {
+      "id": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "name": "第一章",
+      "nodes": [
+        {
+          "id": "56dbe02d-301a-422a-ab96-7e9570d02629",
+          "name": "第一章",
+          "type": "operation",
+          "plotType": 0
+        },
+        {
+          "id": "4c90c93f-63f9-453a-bab1-56014634bf2a",
+          "name": "视频节点",
+          "type": "operation",
+          "file": "07d39520-ca85-11eb-9b41-f5c89e5aa163",
+          "plotType": 5
+        },
+        {
+          "id": "fe383eb5-8d14-417f-af83-20f7a9a4f72f",
+          "name": "城门风波1",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "fc1fdd15-7fef-40a1-9dc3-20634a897e8e",
+          "name": "选择条件",
+          "type": "selection",
+          "plotType": 2
+        },
+        {
+          "id": "b5a10144-5de1-4f88-99ae-e170edaee023",
+          "name": "A:老伯的伤是假的",
+          "type": "select-item",
+          "plotType": 7
+        },
+        {
+          "id": "6bef2bc6-8d89-42b4-8471-2b10dbbb4375",
+          "name": "B:老伯的伤是真的",
+          "type": "select-item",
+          "plotType": 7
+        },
+        {
+          "id": "48c7d1a5-2dc1-4993-ad98-6592c3e0f73c",
+          "name": "城门风波2-A",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "ad538b8d-7394-4a43-bbdc-254e286f9cb1",
+          "name": "选择条件",
+          "type": "selection",
+          "plotType": 2
+        },
+        {
+          "id": "57d9e04e-7b39-47ed-b6a1-7ae78b672890",
+          "name": "A:惩奸除恶",
+          "type": "select-item",
+          "plotType": 7
+        },
+        {
+          "id": "1f1254d8-f395-4827-86da-6432a83dfad6",
+          "name": "B:事不关己",
+          "type": "select-item",
+          "plotType": 7
+        },
+        {
+          "id": "75a083fa-e369-4cfe-a26a-f732985f18a5",
+          "name": "城门风波3-A",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "857b773a-7788-497b-8b6c-456bb1d1be67",
+          "name": "大理寺卿1",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "726715fb-c046-44fa-a165-76febe86572d",
+          "name": "选择条件",
+          "type": "selection",
+          "plotType": 2
+        },
+        {
+          "id": "aea4520d-84d2-4ed0-a62f-bf24ed472b64",
+          "name": "A:隐藏身份，扮做商人",
+          "type": "select-item",
+          "plotType": 7
+        },
+        {
+          "id": "eb327a4c-d9c8-4171-a2eb-c57bac84e02d",
+          "name": "B:坦白身份，我是仵作",
+          "type": "select-item",
+          "plotType": 7
+        },
+        {
+          "id": "e31f2cfc-e1c1-4146-a6da-832039065b70",
+          "name": "大理寺卿2-A",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "184adabf-0635-4341-b94a-f3df795fbb8f",
+          "name": "大理寺卿2-B",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "4bc0a9ad-29e7-4542-ab18-8574c4493849",
+          "name": "城门风波3-B",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "da8bca85-b239-436e-87ae-77a1c984206e",
+          "name": "城门风波2-B",
+          "type": "operation",
+          "plotType": 1
+        },
+        {
+          "id": "aa6aee5d-a692-452a-a39e-081f87b0a9ba",
+          "name": "失败结局：无功而返",
+          "type": "operation",
+          "chapter": "22949ff5-2660-4a31-ae3d-c09289141312",
+          "plotType": 4
+        },
+        {
+          "id": "9da474a7-b47f-4847-a301-c87148fd1d15",
+          "name": "失败结局：无功而返",
+          "type": "operation",
+          "chapter": "22949ff5-2660-4a31-ae3d-c09289141312",
+          "plotType": 4
+        }
+      ],
+      "edges": [
+        {
+          "source": "56dbe02d-301a-422a-ab96-7e9570d02629",
+          "target": "4c90c93f-63f9-453a-bab1-56014634bf2a"
+        },
+        {
+          "source": "4c90c93f-63f9-453a-bab1-56014634bf2a",
+          "target": "fe383eb5-8d14-417f-af83-20f7a9a4f72f"
+        },
+        {
+          "source": "fe383eb5-8d14-417f-af83-20f7a9a4f72f",
+          "target": "fc1fdd15-7fef-40a1-9dc3-20634a897e8e"
+        },
+        {
+          "source": "fc1fdd15-7fef-40a1-9dc3-20634a897e8e",
+          "target": "b5a10144-5de1-4f88-99ae-e170edaee023"
+        },
+        {
+          "source": "fc1fdd15-7fef-40a1-9dc3-20634a897e8e",
+          "target": "6bef2bc6-8d89-42b4-8471-2b10dbbb4375"
+        },
+        {
+          "source": "b5a10144-5de1-4f88-99ae-e170edaee023",
+          "target": "48c7d1a5-2dc1-4993-ad98-6592c3e0f73c"
+        },
+        {
+          "source": "48c7d1a5-2dc1-4993-ad98-6592c3e0f73c",
+          "target": "ad538b8d-7394-4a43-bbdc-254e286f9cb1"
+        },
+        {
+          "source": "ad538b8d-7394-4a43-bbdc-254e286f9cb1",
+          "target": "57d9e04e-7b39-47ed-b6a1-7ae78b672890"
+        },
+        {
+          "source": "ad538b8d-7394-4a43-bbdc-254e286f9cb1",
+          "target": "1f1254d8-f395-4827-86da-6432a83dfad6"
+        },
+        {
+          "source": "57d9e04e-7b39-47ed-b6a1-7ae78b672890",
+          "target": "75a083fa-e369-4cfe-a26a-f732985f18a5"
+        },
+        {
+          "source": "75a083fa-e369-4cfe-a26a-f732985f18a5",
+          "target": "857b773a-7788-497b-8b6c-456bb1d1be67"
+        },
+        {
+          "source": "857b773a-7788-497b-8b6c-456bb1d1be67",
+          "target": "726715fb-c046-44fa-a165-76febe86572d"
+        },
+        {
+          "source": "726715fb-c046-44fa-a165-76febe86572d",
+          "target": "aea4520d-84d2-4ed0-a62f-bf24ed472b64"
+        },
+        {
+          "source": "726715fb-c046-44fa-a165-76febe86572d",
+          "target": "eb327a4c-d9c8-4171-a2eb-c57bac84e02d"
+        },
+        {
+          "source": "aea4520d-84d2-4ed0-a62f-bf24ed472b64",
+          "target": "e31f2cfc-e1c1-4146-a6da-832039065b70"
+        },
+        {
+          "source": "eb327a4c-d9c8-4171-a2eb-c57bac84e02d",
+          "target": "184adabf-0635-4341-b94a-f3df795fbb8f"
+        },
+        {
+          "source": "1f1254d8-f395-4827-86da-6432a83dfad6",
+          "target": "4bc0a9ad-29e7-4542-ab18-8574c4493849"
+        },
+        {
+          "source": "6bef2bc6-8d89-42b4-8471-2b10dbbb4375",
+          "target": "da8bca85-b239-436e-87ae-77a1c984206e"
+        },
+        {
+          "source": "da8bca85-b239-436e-87ae-77a1c984206e",
+          "target": "aa6aee5d-a692-452a-a39e-081f87b0a9ba"
+        },
+        {
+          "source": "4bc0a9ad-29e7-4542-ab18-8574c4493849",
+          "target": "9da474a7-b47f-4847-a301-c87148fd1d15"
+        }
+      ],
+      "ctime": "2021-06-09T08:22:52.036Z"
+    },
+    {
+      "id": "22949ff5-2660-4a31-ae3d-c09289141312",
+      "name": "失败结局：无功而返",
+      "nodes": [
+        {
+          "id": "22949ff5-2660-4a31-ae3d-c09289141312",
+          "name": "失败结局：无功而返",
+          "type": "operation",
+          "plotType": 0
+        },
+        {
+          "id": "c4d2a833-910b-44bc-a0d5-a303fc45e775",
+          "name": "出师不利",
+          "type": "operation",
+          "plotType": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "22949ff5-2660-4a31-ae3d-c09289141312",
+          "target": "c4d2a833-910b-44bc-a0d5-a303fc45e775"
+        }
+      ],
+      "ctime": "2021-06-10T04:04:21.410Z"
+    },
+    {
+      "id": "f992854a-c588-4ed9-a279-130b30a649f2",
+      "name": "第二章：仵作考试",
+      "nodes": [
+        {
+          "id": "f992854a-c588-4ed9-a279-130b30a649f2",
+          "name": "第二章：仵作考试",
+          "type": "operation",
+          "plotType": 0
+        },
+        {
+          "id": "9fd74f3b-4a73-4ea3-ab8a-a0b2b76de2b2",
+          "name": "好的",
+          "type": "operation",
+          "plotType": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "f992854a-c588-4ed9-a279-130b30a649f2",
+          "target": "9fd74f3b-4a73-4ea3-ab8a-a0b2b76de2b2"
+        }
+      ],
+      "ctime": "2021-06-10T04:13:56.579Z"
+    },
+    {
+      "id": "56deff41-613f-490a-b9a5-dd2fe764bbe4",
+      "name": "第一章：好的",
+      "nodes": [
+        {
+          "id": "56deff41-613f-490a-b9a5-dd2fe764bbe4",
+          "name": "第一章：好的",
+          "type": "operation",
+          "plotType": 0
+        },
+        {
+          "id": "ca673f3b-2dbb-4e5c-abc3-a86089285b46",
+          "name": "立绘",
+          "type": "operation",
+          "plotType": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "56deff41-613f-490a-b9a5-dd2fe764bbe4",
+          "target": "ca673f3b-2dbb-4e5c-abc3-a86089285b46"
+        }
+      ],
+      "ctime": "2021-06-14T19:16:06.552Z"
+    },
+    {
+      "id": "a6cc6fbc-50e8-4da0-9c37-a26ea4fbc35b",
+      "name": "第一章",
+      "nodes": [
+        {
+          "id": "a6cc6fbc-50e8-4da0-9c37-a26ea4fbc35b",
+          "name": "第一章",
+          "type": "operation",
+          "plotType": 0
+        },
+        {
+          "id": "419c3ec8-cefc-44a3-81b6-2887d4ce3875",
+          "name": "问题重重",
+          "type": "operation",
+          "plotType": 1
+        }
+      ],
+      "edges": [
+        {
+          "source": "a6cc6fbc-50e8-4da0-9c37-a26ea4fbc35b",
+          "target": "419c3ec8-cefc-44a3-81b6-2887d4ce3875"
+        }
+      ],
+      "ctime": "2021-06-14T21:22:07.909Z"
+    }
+  ]
+}

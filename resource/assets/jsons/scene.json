@@ -1,0 +1,1409 @@
+{
+  "scene": [
+    {
+      "id": "fe383eb5-8d14-417f-af83-20f7a9a4f72f",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "长安我来了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "fb869b5f-4297-4af2-ba5c-0322a89502b9",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "3cfec3e0-c9cd-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "我叫楚楚，来长安是为来当仵作。当六扇门老大-“玉面判官”的仵作！",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "70b2bf7f-d4e7-4bd5-b86e-912e772b223f",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "d196bed0-c848-11eb-a359-63ddbec7ca4f",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "我一定要找到玉面判官",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "4c6a39ad-fcde-4208-8a84-6e41468907b1",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "ddb0fb80-c8a3-11eb-a359-63ddbec7ca4f",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "哎，前面好热闹啊，是有什么事情发生吗？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "22358601-abfb-4b00-ba8a-798efcefcef8",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "ddb12290-c8a3-11eb-a359-63ddbec7ca4f",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "撞人了，撞人了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "d849903d-eb9d-4d55-a4dd-cbeeee2aa131",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "ddb36c80-c8a3-11eb-a359-63ddbec7ca4f",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "你没事吧？实在对不住啊",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "5cd907ce-c5b3-4bab-8548-66e222845713",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c4471b00-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "要不我载你去看郎中吧",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "5d2ecfc7-7fd4-4828-9311-e7efdd2a1223"
+        },
+        {
+          "name": "",
+          "text": "老头子不敢耽误你发财啊，不用麻烦了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "38a74431-2bed-412c-8376-95bf5d60c951",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c44657b0-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "我就一把老骨头，只是这一碰，可能就几个月下不了田了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "206f7e5a-e666-4c60-8032-f72970c7e137",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "48d854b0-c991-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "实在没有闲钱去看郎中了，要是方便，还望您能给我几个医药钱",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "4c437e36-6a0d-4b61-a518-93d2887b2bc5",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c44e1fe0-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "这伤好奇怪啊",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "f7d9537c-43d0-48a1-9c75-2812d733b825",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c4454640-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        }
+      ],
+      "script": "[bg name=\"bg\" file=\"3cfec3e0-c9cd-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"长安我来了\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"d196bed0-c848-11eb-a359-63ddbec7ca4f\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"我叫楚楚，来长安是为来当仵作。当六扇门老大-“玉面判官”的仵作！\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"ddb0fb80-c8a3-11eb-a359-63ddbec7ca4f\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"我一定要找到玉面判官\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"ddb12290-c8a3-11eb-a359-63ddbec7ca4f\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"哎，前面好热闹啊，是有什么事情发生吗？\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"ddb36c80-c8a3-11eb-a359-63ddbec7ca4f\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"撞人了，撞人了\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c4471b00-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"你没事吧？实在对不住啊\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"要不我载你去看郎中吧\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c44657b0-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"老头子不敢耽误你发财啊，不用麻烦了\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"48d854b0-c991-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"我就一把老骨头，只是这一碰，可能就几个月下不了田了\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c44e1fe0-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"实在没有闲钱去看郎中了，要是方便，还望您能给我几个医药钱\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c4454640-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"这伤好奇怪啊\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "48c7d1a5-2dc1-4993-ad98-6592c3e0f73c",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "你骗人，你这伤就是用来唬人的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "41240664-a054-4fe8-8860-1744bdcedfbe",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "ab4c6f90-c997-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "摸上去虽然微微发烫，但是一点都没有肿胀发硬的感觉",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "8201d83b-9f4f-4af4-a91a-ef0b37042c03",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c4460990-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "而且你们看，这伤处色泽单调，边界又各位清晰",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "4430b1f4-533d-4dc6-b6a4-52b0db5696e0"
+        },
+        {
+          "name": "",
+          "text": "一看就是用烧制榉木树皮的法子伪造的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "a30d7d70-fcd2-4d20-919b-96a6c911f5ac"
+        },
+        {
+          "name": "",
+          "text": "哎，胡说些啥啊，我都伤成这样了，还能假的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "0236add4-1e2e-4662-bef1-ac1614b0e274",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c4476920-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "这人分明是来捣乱的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "1c4c1f8e-4708-413f-af3f-d345a8487d89",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c44df8d0-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "text": "此人神情凶狠，绝非善类。出门前，哥哥特意叮嘱我不要多管闲事",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "baa840ee-9583-476c-9639-e1e1ecc1f108",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c4454640-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        }
+      ],
+      "script": "[bg name=\"bg\" file=\"ab4c6f90-c997-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"你骗人，你这伤就是用来唬人的\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c4460990-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"摸上去虽然微微发烫，但是一点都没有肿胀发硬的感觉\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"而且你们看，这伤处色泽单调，边界又各位清晰\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"一看就是用烧制榉木树皮的法子伪造的\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c4476920-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"哎，胡说些啥啊，我都伤成这样了，还能假的\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c44df8d0-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"这人分明是来捣乱的\" file=\"bg_dialog\" position=\"bottom\"]\r\n[bg name=\"bg\" file=\"c4454640-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"此人神情凶狠，绝非善类。出门前，哥哥特意叮嘱我不要多管闲事\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "75a083fa-e369-4cfe-a26a-f732985f18a5",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "他根本就不是什么老人家，他是假扮的，他的眼睛眼白是白的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "12619c6e-13f6-49f9-9f39-e68ff5aa0fe5"
+        },
+        {
+          "name": "",
+          "text": "人的眼白不是白的，难道是黑的吗？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "66f01c54-6775-4337-bcda-b675f14fc65a"
+        },
+        {
+          "name": "",
+          "text": "当然不是黑的，是黄的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "2790997d-ee5f-422d-921d-df0df54204ab"
+        },
+        {
+          "name": "",
+          "text": "人年纪大了，眼白是会发黄的，年纪越大就会越黄",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "cfda0cf1-d8f1-4631-8eb1-42af2adf8c45"
+        },
+        {
+          "name": "",
+          "text": "人老珠黄就是这样的意思",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "d9f07d7e-3f3f-4280-82ad-441d24163414"
+        },
+        {
+          "name": "",
+          "text": "骗子 别跑",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "283e9b7d-6aee-43c3-9d0b-f72de0598b88"
+        },
+        {
+          "name": "",
+          "text": "啊，别跑",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "c6fbcbe1-a0e1-48c0-86e7-7302ffe965f4"
+        },
+        {
+          "name": "",
+          "text": "诶呀，痛死我了，真是什么人都有啊",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "b07f423a-0689-427d-8931-142f7443d09b"
+        }
+      ],
+      "script": "[character name=\"\" mood=\"普通\"]\r\n[text content=\"他根本就不是什么老人家，他是假扮的，他的眼睛眼白是白的\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"人的眼白不是白的，难道是黑的吗？\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"当然不是黑的，是黄的\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"人年纪大了，眼白是会发黄的，年纪越大就会越黄\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"人老珠黄就是这样的意思\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"骗子 别跑\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"啊，别跑\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"诶呀，痛死我了，真是什么人都有啊\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "857b773a-7788-497b-8b6c-456bb1d1be67",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "你是？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "4f87666d-20fd-468b-a35e-1d1267884834"
+        },
+        {
+          "name": "",
+          "text": "楚楚",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "39f22faf-c87b-4f12-b69d-cb583b5f330e"
+        },
+        {
+          "name": "",
+          "text": "你是大理寺的官？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "0c44aedf-a7f3-4edf-8511-bce52dfee5f0"
+        },
+        {
+          "name": "",
+          "text": "大理寺卿，景翊",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "92af0dc7-2ab3-43c9-9537-a89cda3d0442"
+        },
+        {
+          "name": "",
+          "text": "见过景大人",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "82c8c095-14d0-4e27-8096-0ba4248f4245"
+        },
+        {
+          "name": "",
+          "text": "这是什么，这可不是平常人的东西",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "8ae75d6d-30d3-4fc7-853e-08be59b6120e"
+        },
+        {
+          "name": "",
+          "text": "说吧来长安做什么？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "6cc4ef56-d193-495f-9149-c374530f893b"
+        },
+        {
+          "name": "",
+          "text": "父亲怕我遭受排挤，让我扮做商人，隐藏身份随商人车队进城",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "e01e84c4-fb2a-43cb-ad48-5c0e37052309"
+        },
+        {
+          "name": "",
+          "text": "初到长安就遇到骗子，这个景大人可信吗？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "bf6ad0bc-40b2-447a-8e34-868cdc03e5ff"
+        }
+      ],
+      "script": "[character name=\"\" mood=\"普通\"]\r\n[text content=\"你是？\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"楚楚\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"你是大理寺的官？\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"大理寺卿，景翊\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"见过景大人\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"这是什么，这可不是平常人的东西\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"说吧来长安做什么？\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"父亲怕我遭受排挤，让我扮做商人，隐藏身份随商人车队进城\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"初到长安就遇到骗子，这个景大人可信吗？\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "e31f2cfc-e1c1-4146-a6da-832039065b70",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "我是商人",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "6874f7d0-4a39-4f9c-b1b4-7e2bdb259794"
+        }
+      ],
+      "script": "[character name=\"\" mood=\"普通\"]\r\n[text content=\"我是商人\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "184adabf-0635-4341-b94a-f3df795fbb8f",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "我不是商人，我只是打了商队的车",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "81e8ed2a-9d04-491d-b5d8-05c740de3acb"
+        },
+        {
+          "name": "",
+          "text": "我是仵作，这是我验尸的工具",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "f7dfa02a-3179-416b-8c93-92ef909fbda3"
+        },
+        {
+          "name": "",
+          "text": "你说你是仵作，可是准备参加仵作核级考试吗",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "aa35520a-1196-4dfe-9344-49c2b3cd365d"
+        },
+        {
+          "name": "",
+          "text": "是，等我考过了，我就是正式的仵作了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "90ffc80f-1046-4fbd-89b6-881aaee1fc41"
+        },
+        {
+          "name": "",
+          "text": "你们长安的仵作考试，真的是诸事不限，什么人都能参加吗？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "53f0a442-81c0-4a52-a128-cbf96f3f8e46"
+        },
+        {
+          "name": "",
+          "text": "能，你拿着这个令牌，就能顺利进入考试了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "9166819a-bd23-4431-b538-043dcb5bff53"
+        },
+        {
+          "name": "",
+          "text": "真的吗？",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "23d08bfc-352f-495e-852c-6a3382a51ed3"
+        },
+        {
+          "name": "",
+          "text": "谢谢景大人，我一定能考上仵作的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "81a7e18e-7c99-4374-b4f0-b4c127d97415"
+        }
+      ],
+      "script": "[character name=\"\" mood=\"普通\"]\r\n[text content=\"我不是商人，我只是打了商队的车\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"我是仵作，这是我验尸的工具\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"你说你是仵作，可是准备参加仵作核级考试吗\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"是，等我考过了，我就是正式的仵作了\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"你们长安的仵作考试，真的是诸事不限，什么人都能参加吗？\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"能，你拿着这个令牌，就能顺利进入考试了\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"真的吗？\" file=\"bg_dialog\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"谢谢景大人，我一定能考上仵作的\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "da8bca85-b239-436e-87ae-77a1c984206e",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "但是老伯看起来蛮可怜的，不像是坏人，应该是我看错了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "6a33d8e0-a7bf-4ff6-9cc3-ccc2a5a32f47"
+        }
+      ],
+      "script": "[character name=\"\" mood=\"普通\"]\r\n[text content=\"但是老伯看起来蛮可怜的，不像是坏人，应该是我看错了\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "4bc0a9ad-29e7-4542-ab18-8574c4493849",
+      "chapterId": "56dbe02d-301a-422a-ab96-7e9570d02629",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "这人看起来不是什么善类，还是别招惹他们了。找到六扇门要紧",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "3b34c670-6c1d-4480-9b2b-c87e0f846191"
+        }
+      ],
+      "script": "[character name=\"\" mood=\"普通\"]\r\n[text content=\"这人看起来不是什么善类，还是别招惹他们了。找到六扇门要紧\" file=\"bg_dialog\" position=\"bottom\"]\r\n"
+    },
+    {
+      "id": "012909d5-7195-4563-87de-b7343bd0a519",
+      "chapterId": "22949ff5-2660-4a31-ae3d-c09289141312",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "来到长安多月，终无所获，只能沿途往返",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "e0255d91-6807-4788-a3b4-80876c710b43"
+        }
+      ],
+      "script": "[text content=\"来到长安多月，终无所获，只能沿途往返\" ]\r\n"
+    },
+    {
+      "id": "c4d2a833-910b-44bc-a0d5-a303fc45e775",
+      "chapterId": "22949ff5-2660-4a31-ae3d-c09289141312",
+      "init": {},
+      "list": [
+        {
+          "name": "",
+          "text": "来到长安多月，终无所获，只能沿途往返",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "2ffbec7b-4547-406e-a098-27a66a7ee7be",
+          "additionals": [
+            {
+              "type": 0,
+              "mode": "insert",
+              "file": "c4454640-c990-11eb-9b41-f5c89e5aa163",
+              "name": "bg"
+            }
+          ]
+        }
+      ],
+      "script": "[bg name=\"bg\" file=\"c4454640-c990-11eb-9b41-f5c89e5aa163\" ]\r\n[text content=\"来到长安多月，终无所获，只能沿途往返\"   ]\r\n"
+    },
+    {
+      "id": "9fd74f3b-4a73-4ea3-ab8a-a0b2b76de2b2",
+      "chapterId": "f992854a-c588-4ed9-a279-130b30a649f2",
+      "init": {},
+      "list": [
+        {
+          "name": "kc",
+          "text": "1223",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "53c64f22-307e-4f78-86ba-45eb0d5ab6b4"
+        }
+      ],
+      "script": "[character name=\"kc\" hide sketch mood=\"default\" dialog=\"default\" mode=\"middle\" ]\r\n[text content=\"1223\"   ]\r\n"
+    },
+    {
+      "id": "419c3ec8-cefc-44a3-81b6-2887d4ce3875",
+      "chapterId": "a6cc6fbc-50e8-4da0-9c37-a26ea4fbc35b",
+      "init": {
+        "bg": "d08223a0-cdb0-11eb-a074-7babd3ebdc3b~会议室"
+      },
+      "list": [
+        {
+          "name": "",
+          "text": "队员a：还是联系不上他，队长怎么办，马上要开赛了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "34ce7305-608d-466f-a906-d7c3490aefc4"
+        },
+        {
+          "name": "",
+          "text": "队员a：林泽然这个混蛋到底怎样了，到底跑哪里去了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "d59b1a9e-4240-45f0-80c4-3a08804074db"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：......",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "生气",
+          "moodFile": "57350670-cd51-11eb-a074-7babd3ebdc3b",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "2ce14c2c-efef-4a84-b7ee-5df15337400e",
+          "rName": "总裁"
+        },
+        {
+          "name": "",
+          "text": "队员a：队长，EA今天的阵容名单里可是有别城和怜子瑜的",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "b51a0399-2388-438f-a0fd-3b97c7baf6a0"
+        },
+        {
+          "name": "",
+          "text": "队员a：这两个人实力几乎是登顶国服第一，配合更是默契得好像连体婴，这一场比赛本来就已经不好打了",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "1725e3ed-6d1c-486f-91fc-f79cdde70dd3"
+        },
+        {
+          "name": "",
+          "text": "队员a：我们宅男倒好，射手在赛前跑的连影子都没了，这还怎么打",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "cb32c75d-5c17-4662-be8d-3ef446cd551e"
+        },
+        {
+          "name": "b864d0c3-1f01-4e87-b9cf-b77fb6adc072",
+          "text": "柏涵：大家先冷静一下",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "c835e441-68e5-420f-8f53-9149dc900621",
+          "rName": "总裁1"
+        },
+        {
+          "name": "",
+          "text": "准备室中慌张的人群勉强安静下来，齐齐地看着最中心的柏涵",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "dbe5b9d3-3fa1-46a2-b02c-2c9e26c07048"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：你们说的我都明白",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "65b87aa6-79df-4354-9d4e-109bfb4d81b4",
+          "rName": "总裁"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：林泽然现在肯定有非常重要且不能推脱的事情才会离开",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "6e64a0cb-3304-488a-b2e5-a0e248f936d0",
+          "rName": "总裁"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：我了解他，他不会无缘无故在这么重要的时候消失，他不是那种没有担当的人",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "acc0505f-7a35-4fcc-847c-da85f4bf2741",
+          "rName": "总裁"
+        },
+        {
+          "name": "",
+          "text": "队员a；。。。。。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "68534b42-bd18-427f-967f-3bbfb928de2d"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：现在事情已经发生，在纠结与这个无济于事",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "98dff223-e0a9-4991-8007-e78964cffcdd",
+          "rName": "总裁"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：你继续打林泽然的电话，尽可能地联络到他",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "f04b6ff5-56d2-45c4-9159-68563ef9f7c1",
+          "rName": "总裁"
+        },
+        {
+          "name": "",
+          "text": "队员a：明白，队长，我再去联络试试",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "3ba4d887-0557-4018-b9a6-c58c07802927"
+        },
+        {
+          "name": "",
+          "text": "队员b：如果我们在比赛上抬之前还是没联络到他怎么办",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "191e123f-fe3c-4274-ac6f-89b207cb326b"
+        },
+        {
+          "name": "",
+          "text": "说到这里，其余人都是一脸的气恼和忧愁，整个房间都充斥着不安",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "ea5abf33-0982-4edf-91b6-57ac837394a6"
+        },
+        {
+          "name": "",
+          "text": "柏涵深吸一口气，眼睛死死地盯着比赛的屏幕。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "c2dbc27e-d481-446d-a320-30877019de44"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：……那就重新安排阵容",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "16731255-eb34-43ae-bb89-33afdd6519e7",
+          "rName": "总裁"
+        },
+        {
+          "name": "",
+          "text": "队员a：这个时候再重新安排阵容，我们的配合肯定是大打折扣啊。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "cbb047e2-30eb-48ce-8e39-362116fe36e2"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：我相信你们。",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "66350c2c-353b-4cb4-9ecd-1c584933be01",
+          "rName": "总裁"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：难道林则然没来，我们就放弃总决赛，不战而败吗？",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "5571edc6-e89c-48b2-9f72-21fd5c6edcd0",
+          "rName": "总裁"
+        },
+        {
+          "name": "",
+          "text": "队员：当然不可能！",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "f917b6e0-302c-4daa-9ac9-753fb53d9ca8"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "这就对了。",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "cf96e373-342d-4699-8e4e-b0a47c35e57f",
+          "rName": "总裁"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：他在，我们打，他不在，我们也要打。",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "18792e91-f1ac-4ad3-b667-81c6df71bf33",
+          "rName": "总裁"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：来，现在重新安排阵容。",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "cf80346f-9817-4de8-b8e0-0c0078960667",
+          "rName": "总裁"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：这一场比赛，无论他在不在，我们都要打得漂漂亮亮的！",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "b8cd5d92-dd88-4eb7-bb7d-73fac7c56ee5",
+          "rName": "总裁"
+        },
+        {
+          "name": "",
+          "text": "柏涵不慌不忙地安排着新的阵容，并且调整赛时可能会遇到的套路反击。毕竟换上来的射手替补完全没有林则然那般凶残。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "1d1df7ae-b275-4f59-8e73-5bc749a1fbe6"
+        },
+        {
+          "name": "",
+          "text": "射手这一位置已经从优势变成了短板，柏涵必须要尽可能在阵容安排上弥补这点。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "dd11211d-b489-45ba-b6ce-3bbb8b87a877"
+        },
+        {
+          "name": "",
+          "text": "他的镇定自若也让准备室的众人冷静下来，甚至重新的燃起了希望。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "0c435e28-d6ed-418d-a78d-d1fce42feafd"
+        },
+        {
+          "name": "",
+          "text": "只是——",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "8e6d2dc5-293a-4be6-a93b-0c744d0b2216"
+        },
+        {
+          "name": "",
+          "text": "在众人看不到的地方，柏涵的拳头攥得死紧。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "eb012283-58f6-4b5c-aab9-02f2d6739272"
+        },
+        {
+          "name": "7a01918a-78d1-492b-8382-4a379a238997",
+          "text": "柏涵：......",
+          "file": "53409ac0-cd51-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "4282dcda-41ee-4e2c-b725-fec7a08c7182",
+          "rName": "总裁"
+        },
+        {
+          "name": "",
+          "text": "（林则然，你到底去哪里了……）",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "e2869756-121f-40e1-be6a-31de5a8a8a88"
+        },
+        {
+          "name": "308d1385-24a7-46b3-91ea-0c7b913fdeb9",
+          "text": "别城：你说什么？！",
+          "file": "927144a0-cd70-11eb-a074-7babd3ebdc3b",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "moodFile": "",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 1,
+          "id": "a2fec1f6-fc2f-44e7-9e2a-fbd3f99a61fb",
+          "rName": "女一"
+        },
+        {
+          "name": "",
+          "text": "别城和怜子瑜齐齐抬起头，两个人同样锐利的目光直直地看着来传话的导播助手。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "8db20ce7-5dab-441e-ad63-69de06f44068"
+        },
+        {
+          "name": "",
+          "text": "导播助手下意识地往后退了一步，不敢直视两人。",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "c29cb3ad-2bd3-4844-956f-28dd41523963"
+        },
+        {
+          "name": "",
+          "text": "导播助手：G，GF那边的射手换人了，林则然没在阵容名单内…",
+          "hide": false,
+          "sketch": false,
+          "subtitle": "subtitle",
+          "textPosition": "bottom",
+          "mood": "default",
+          "dialog": "default",
+          "mode": "middle",
+          "type": 0,
+          "id": "92c48eb6-4f03-4a2f-996b-b4892b36f229"
+        }
+      ],
+      "script": "[bg name=\"bg\" file=\"d08223a0-cdb0-11eb-a074-7babd3ebdc3b\" ]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a：还是联系不上他，队长怎么办，马上要开赛了\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a：林泽然这个混蛋到底怎样了，到底跑哪里去了\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"57350670-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"生气\"]\r\n[text content=\"柏涵：......\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a：队长，EA今天的阵容名单里可是有别城和怜子瑜的\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a：这两个人实力几乎是登顶国服第一，配合更是默契得好像连体婴，这一场比赛本来就已经不好打了\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a：我们宅男倒好，射手在赛前跑的连影子都没了，这还怎么打\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：大家先冷静一下\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"准备室中慌张的人群勉强安静下来，齐齐地看着最中心的柏涵\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：你们说的我都明白\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：林泽然现在肯定有非常重要且不能推脱的事情才会离开\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：我了解他，他不会无缘无故在这么重要的时候消失，他不是那种没有担当的人\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a；。。。。。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：现在事情已经发生，在纠结与这个无济于事\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：你继续打林泽然的电话，尽可能地联络到他\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a：明白，队长，我再去联络试试\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员b：如果我们在比赛上抬之前还是没联络到他怎么办\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"说到这里，其余人都是一脸的气恼和忧愁，整个房间都充斥着不安\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"柏涵深吸一口气，眼睛死死地盯着比赛的屏幕。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：……那就重新安排阵容\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员a：这个时候再重新安排阵容，我们的配合肯定是大打折扣啊。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：我相信你们。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：难道林则然没来，我们就放弃总决赛，不战而败吗？\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"队员：当然不可能！\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"这就对了。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：他在，我们打，他不在，我们也要打。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：来，现在重新安排阵容。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：这一场比赛，无论他在不在，我们都要打得漂漂亮亮的！\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"柏涵不慌不忙地安排着新的阵容，并且调整赛时可能会遇到的套路反击。毕竟换上来的射手替补完全没有林则然那般凶残。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"射手这一位置已经从优势变成了短板，柏涵必须要尽可能在阵容安排上弥补这点。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"他的镇定自若也让准备室的众人冷静下来，甚至重新的燃起了希望。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"只是——\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"在众人看不到的地方，柏涵的拳头攥得死紧。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"53409ac0-cd51-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"柏涵：......\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"（林则然，你到底去哪里了……）\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"927144a0-cd70-11eb-a074-7babd3ebdc3b\" position=\"middle\" mood=\"default\"]\r\n[text content=\"别城：你说什么？！\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"别城和怜子瑜齐齐抬起头，两个人同样锐利的目光直直地看着来传话的导播助手。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"导播助手下意识地往后退了一步，不敢直视两人。\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n[character name=\"\" mood=\"普通\"]\r\n[text content=\"导播助手：G，GF那边的射手换人了，林则然没在阵容名单内…\" file=\"5cd52f1d7f9d2a38b85a409dX1ha\" position=\"bottom\"]\r\n"
+    }
+  ]
+}
